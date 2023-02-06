@@ -5,7 +5,6 @@ I am a Technical 3d Artist
 --------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sharmamanav1162@gmail.com](mailto:sharmamanav1162@gmail.com)
 * 🧠  I'm learning 3d modelling
 * 🤝  I'm open to collaborating on I'm open to collaborating on Game development using unity or unreal
 
