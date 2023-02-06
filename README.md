@@ -3,7 +3,7 @@
 Hi 👋 My name is Manav Sharma
 =============================
 
-I am a 3d Artist
+I am a Technical 3d Artist
 ----------------
 
 I am a game developer and a game designer, currently focused on doing 3d modelling. I am experienced in modelling, rigging, 3d animations, weight painting, sculpting. I love blender and i use it as my primary tool for learning :)
